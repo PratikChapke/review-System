@@ -19,6 +19,7 @@ Employee_review-system Application
 2.  Express
 3.  EJS
 4.  MongoDB
+5. Javascript-Html-Css-Boostraps 
 
 ## Prerequisites
 - MongoDB
