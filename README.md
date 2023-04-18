@@ -4,9 +4,9 @@ Employee_review-system Application
   
   * Admin View
     
-    *Add/ remove/ update/ view employees
-  	*Add/update/view performance reviews
-  	*Assign employees to participate in another employee's performance review
+    *  Add/ remove/ update/ view employees
+  	*  Add/update/view performance reviews
+  	*  Assign employees to participate in another employee's performance review
   	
   * Employee View
     * List of performance review requiring feedback
