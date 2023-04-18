@@ -3,7 +3,7 @@ Employee_review-system Application
   ## Features
   
   * Admin View
-  	*Add/ remove/ update/ view employees
+    *Add/ remove/ update/ view employees
   	*Add/update/view performance reviews
   	*Assign employees to participate in another employee's performance review
   	
